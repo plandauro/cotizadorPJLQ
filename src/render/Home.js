@@ -10,7 +10,7 @@ import {
   Link as LinkARef,
 } from "@material-ui/core";
 
-import { get_post } from "../services/cotizador.services";
+// import { get_posts } from "../services/cotizador.services";
 
 import { useState } from "react";
 import { useHistory } from "react-router";
